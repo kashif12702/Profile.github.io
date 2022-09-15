@@ -58,7 +58,7 @@ top: 20%;
     transition: 0.5s;
 }
 .down a i:hover{
-    color: rgb(0 187 255);;
+    color: rgb(0 187 255);
     transform: scale(1.5, 1.5);
 
 }
@@ -559,12 +559,12 @@ flex-wrap: wrap;
     transition: 0.5s;
 }
 #visit a:hover{
-color: rgb(0 187 255);;
+color: white;
 }
 
 #visit a:hover #r-arrow{
     transform: translateX(5px);
-    color: rgb(246, 255, 0);
+    color: rgb(0 187 255);
 
 }
 
